@@ -19,7 +19,7 @@ test:
   adapter: mysql
   database: testgithub_test
   username: root
-  password:
+  password: 1235
   host: localhost
 
 production:
